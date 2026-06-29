@@ -2,7 +2,7 @@
 # Author : 废宗·Feizong
 # Version : 1.0
 # URL : https://github.com/Feizongg/Loon
-# Update : 06/28/2026 21:33:08
+# Update : 06/29/2026 10:53:40
 
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
